@@ -8,7 +8,7 @@ import (
     "os"
     "strings"
 
-    "github.com/yosebyte/link/pkg/autotls"
+    "github.com/yosebyte/passport/pkg/autotls"
 )
 
 func main() {
